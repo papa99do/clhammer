@@ -1,0 +1,1 @@
+CLHammer is a state machine based command line interaction framework, with some sample implementions. It originates from my own requirement about a tool to deal with maven dependencies.
